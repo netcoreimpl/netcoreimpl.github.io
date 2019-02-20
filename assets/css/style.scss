@@ -1,0 +1,19 @@
+---
+---
+
+@import "jekyll-theme-minimal";
+
+header > h1 > a,
+header > h1 > a:hover,
+header > h1 > a:active {
+  color: #393939;
+}
+
+section > h1 {
+  border: 2px solid #393939;
+  color: #393939;
+  font-size: 26px;
+  font-weight: normal;
+  padding: 8px 8px;
+  text-align: center;
+}
