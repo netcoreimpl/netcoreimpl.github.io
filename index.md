@@ -134,6 +134,7 @@ layout: default
 - 张衡水 (Github: [jonechenug](https://github.com/jonechenug))
 - 邹嵩 (Github: [zlzforever](https://github.com/zlzforever))
 - 施禹诚 (Github: [linkinshi](https://github.com/linkinshi))
+- 杨晓东 (Github: [yang-xiaodong](https://github.com/yang-xiaodong))
 - carterHe (TODO)
 - SwimmingFish (TODO)
 - 全雨秋 (TODO)
