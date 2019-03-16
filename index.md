@@ -135,11 +135,11 @@ layout: default
 - 邹嵩 (Github: [zlzforever](https://github.com/zlzforever))
 - 施禹诚 (Github: [linkinshi](https://github.com/linkinshi))
 - 杨晓东 (Github: [yang-xiaodong](https://github.com/yang-xiaodong))
+- 周启明 (Github: [yzqmars](https://github.com/yzqmars))
+- tinydyw (Github: [tinydyw](https://github.com/tinydyw))
+- Ivony (Github: [Ivony](https://github.com/Ivony))
 - carterHe (TODO)
-- SwimmingFish (TODO)
 - 全雨秋 (TODO)
-- Ivony (TODO)
-- hddstiny (TODO)
 
 # 购买方法
 
