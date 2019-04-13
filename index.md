@@ -21,9 +21,6 @@ layout: default
 - 2.1 - 逆向 .NET 程序到 IL
 - 2.2 - 基础语法
 - 2.3 - 流程控制
-- 2.4 - 类型定义
-- 2.5 - 程序集与模块
-- 2.6 - 使用 Emit 动态构建代码
 
 ## 第三章 - x86 汇编入门
 
@@ -138,8 +135,8 @@ layout: default
 - 周启明 (Github: [yzqmars](https://github.com/yzqmars))
 - tinydyw (Github: [tinydyw](https://github.com/tinydyw))
 - Ivony (Github: [Ivony](https://github.com/Ivony))
-- carterHe (TODO)
-- 全雨秋 (TODO)
+- carterHe (Github: [carterHe](https://github.com/carterHe))
+- 全雨秋 (Github: [quan01994](https://github.com/quan01994))
 
 # 购买方法
 
