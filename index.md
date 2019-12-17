@@ -6,9 +6,7 @@ layout: default
 
 **本书主要介绍 .NET Core 公共语言运行时的底层实现，包括异常、多线程、GC 以及 JIT 的实现原理与实现细节。阅读本书可以加深对 .NET 框架的理解，这些知识会在编写框架以及高性能程序时发挥重要的作用，如果您有兴趣，本书中的知识还可以帮助您向 CoreCLR 添加或修改功能并贡献代码，或者实现一个自己的语言框架。**
 
-**本书由中国 NCC 组织 ([.NET Core Community](https://github.com/dotnetcore)) 的两位成员老农(Github: [303248153](https://github.com/303248153)) 与刘浩杨 (Github: [LiuHaoYang](https://github.com/LiuHaoYang)) 编写。老农曾深入阅读过 CoreCLR 的源代码，在博客园上发表过[系列文章](https://www.cnblogs.com/zkweb/category/935426.html)，并编写过 .NET 的 Web 框架 [ZKWeb](https://github.com/zkweb-framework/ZKWeb) 与 C++ 的 Cassandra 驱动 [cpv-cql-driver](https://github.com/cpv-project/cpv-cql-driver)。刘浩杨是 .NET 的 AOP 框架 [AspectCore](https://github.com/dotnetcore/AspectCore-Framework) 的作者，为著名的 APM 框架 [Apache SkyWalking](https://github.com/apache/incubator-skywalking) 提供了 .NET 支持，并在 2018 年获得微软的 MVP 头衔。**
-
-**本书的英文名称是 .NET Core - introduction to internal implementation，也就是域名中 iii 的由来，感谢 [alexinea](https://github.com/alexinea) 提供域名。**
+**本书由中国 NCC 组织 ([.NET Core Community](https://github.com/dotnetcore)) 的两位成员老农(Github: [303248153](https://github.com/303248153)) 与刘浩杨 (Github: [LiuHaoYang](https://github.com/LiuHaoYang)) 编写。老农曾深入阅读过 CoreCLR 的源代码，在博客园上发表过[系列文章](https://www.cnblogs.com/zkweb/category/935426.html)，并编写过 .NET 的 Web 框架 [ZKWeb](https://github.com/zkweb-framework/ZKWeb) 与 C++ 的 Cassandra 驱动 [cpv-cql-driver](https://github.com/cpv-project/cpv-cql-driver)。刘浩杨是 .NET 的 AOP 框架 [AspectCore](https://github.com/dotnetcore/AspectCore-Framework) 的作者，为著名的 APM 框架 [Apache SkyWalking](https://github.com/apache/incubator-skywalking) 提供了 .NET 支持，并在 2018 年获得微软的 MVP 头衔。本书的英文名称是 .NET Core - Introduction to Internal Implementation，也就是域名中 iii 的由来，感谢 [alexinea](https://github.com/alexinea) 提供域名。**
 
 # 章节列表
 
