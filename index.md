@@ -8,6 +8,8 @@ layout: default
 
 **本书由中国 NCC 组织 ([.NET Core Community](https://github.com/dotnetcore)) 的两位成员老农(Github: [303248153](https://github.com/303248153)) 与刘浩杨 (Github: [LiuHaoYang](https://github.com/LiuHaoYang)) 编写。老农曾深入阅读过 CoreCLR 的源代码，在博客园上发表过[系列文章](https://www.cnblogs.com/zkweb/category/935426.html)，并编写过 .NET 的 Web 框架 [ZKWeb](https://github.com/zkweb-framework/ZKWeb) 与 C++ 的 Cassandra 驱动 [cpv-cql-driver](https://github.com/cpv-project/cpv-cql-driver)。刘浩杨是 .NET 的 AOP 框架 [AspectCore](https://github.com/dotnetcore/AspectCore-Framework) 的作者，为著名的 APM 框架 [Apache SkyWalking](https://github.com/apache/incubator-skywalking) 提供了 .NET 支持，并在 2018 年获得微软的 MVP 头衔。**
 
+**本书的英文名称是 .NET Core - introduction to internal implementation，也就是域名中 iii 的由来，感谢 [alexinea](https://github.com/alexinea) 提供域名。 **
+
 # 章节列表
 
 本书一共 TODO 页，分为 8 章，其中前 4 章是理解 .NET Core 底层实现所需要的基础知识，后 4 章是 .NET Core 底层实现的具体介绍。以下是本书的目录，其中可点击的标题为试读内容，注意试读内容的排版格式与正式书籍会有一些不同。(TODO: 向出版社确认可试读的部分)
