@@ -142,8 +142,7 @@ layout: default
 
 本书由北京航空航天大学出版社出版。
 
-购买纸质书籍请访问：[TODO](TODO)<br/>
-购买电子书籍请访问：[TODO](TODO)
+购买纸质书籍请访问：[京东](https://item.jd.com/12796746.html)
 
 感谢您的支持！
 
@@ -151,7 +150,7 @@ layout: default
 
 欢迎加入以下 QQ 群组讨论 .NET Core 的底层实现原理、分享高性能程序的开发经验、探讨基础设施的设计方式等。
 
-.NET Core 底层实现交流群：**TODOTODO**
+.NET Core 底层实现交流群：**TODO**
 
 如果您对本书的内容有疑问，也可以到 Github 仓库 [netcoreimpl/questions](https://github.com/netcoreimpl/questions)<br/>
 创建 Issue 提问，但回答可能需要几天时间，推荐先在 QQ 群中提问，如果没有解决再创建 Issue。
