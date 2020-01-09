@@ -10,11 +10,13 @@ layout: default
 
 # 章节列表
 
-本书一共 TODO 页，分为 8 章，其中前 4 章是理解 .NET Core 底层实现所需要的基础知识，后 4 章是 .NET Core 底层实现的具体介绍。以下是本书的目录，其中可点击的标题为试读内容，注意试读内容的排版格式与正式书籍会有一些不同。(TODO: 向出版社确认可试读的部分)
+本书一共 524 页，分为 8 章，其中前 4 章是理解 .NET Core 底层实现所需要的基础知识，后 4 章是 .NET Core 底层实现的具体介绍。
+
+以下是本书的目录，其中第一章、第七章前两节与第八章前两节提供试读，请点击对应章节后的链接查看试读内容。
 
 ## 第一章 - 公共语言运行时概述
 
-- 1.1 - 公共语言运行时概述
+- 1.1 - 公共语言运行时概述 (试读: [1](./asserts/assets/img/1-1.jpg) [2](./asserts/assets/img/1-2.jpg) [3](./asserts/assets/img/1-3.jpg) [4](./asserts/assets/img/1-4.jpg) [5](./asserts/assets/img/1-5.jpg) [6](./asserts/assets/img/1-6.jpg))
 
 ## 第二章 - MSIL 入门
 
