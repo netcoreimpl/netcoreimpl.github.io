@@ -16,7 +16,7 @@ layout: default
 
 ## 第一章 - 公共语言运行时概述
 
-- 1.1 - 公共语言运行时概述 (试读: [1](./asserts/assets/img/1-1.jpg) [2](./asserts/assets/img/1-2.jpg) [3](./asserts/assets/img/1-3.jpg) [4](./asserts/assets/img/1-4.jpg) [5](./asserts/assets/img/1-5.jpg) [6](./asserts/assets/img/1-6.jpg))
+- 1.1 - 公共语言运行时概述 (试读: [1](./assets/img/1-1.jpg) [2](./assets/img/1-2.jpg) [3](./assets/img/1-3.jpg) [4](./assets/img/1-4.jpg) [5](./assets/img/1-5.jpg) [6](./assets/img/1-6.jpg))
 
 ## 第二章 - MSIL 入门
 
@@ -68,8 +68,8 @@ layout: default
 
 ## 第七章 - GC 垃圾回收实现
 
-- 7.1 - GC 简介
-- 7.2 - 对象内存结构
+- 7.1 - GC 简介 (试读: [1](./assets/img/7-1.jpg) [2](./assets/img/7-2.jpg) [3](./assets/img/7-3.jpg) [4](./assets/img/7-4.jpg) [5](./assets/img/7-5.jpg) [6](./assets/img/7-6.jpg) [7](./assets/img/7-7.jpg) [8](./assets/img/7-8.jpg) [9](./assets/img/7-9.jpg) [10](./assets/img/7-10.jpg) [11](./assets/img/7-11.jpg) [12](./assets/img/7-12.jpg))
+- 7.2 - 对象内存结构 (试读: [12](./assets/img/7-12.jpg) [13](./assets/img/7-13.jpg) [14](./assets/img/7-14.jpg) [15](./assets/img/7-15.jpg) [16](./assets/img/7-16.jpg) [17](./assets/img/7-17.jpg) [18](./assets/img/7-18.jpg) [19](./assets/img/7-19.jpg) [20](./assets/img/7-20.jpg))
 - 7.3 - 托管堆结构
 - 7.4 - 分配对象流程
 - 7.5 - 垃圾回收流程
@@ -84,8 +84,8 @@ layout: default
 
 ## 第八章 - JIT 编译器实现
 
-- 8.1 - JIT 简介
-- 8.2 - JIT 编译流程
+- 8.1 - JIT 简介 (试读: [1](./assets/img/8-1.jpg) [2](./assets/img/8-2.jpg) [3](./assets/img/8-3.jpg) [4](./assets/img/8-4.jpg))
+- 8.2 - JIT 编译流程 (试读: [5](./assets/img/8-5.jpg) [6](./assets/img/8-6.jpg) [7](./assets/img/8-7.jpg) [8](./assets/img/8-8.jpg) [9](./assets/img/8-9.jpg) [10](./assets/img/8-10.jpg) [11](./assets/img/8-11.jpg) [12](./assets/img/8-12.jpg) [13](./assets/img/8-13.jpg))
 - 8.3 - IR 结构
 - 8.4 - IL 解析 (Importer)
 - 8.5 - 函数内联 (Inliner)
