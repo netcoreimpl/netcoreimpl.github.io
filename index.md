@@ -157,7 +157,7 @@ layout: default
 如果您对本书的内容有疑问，也可以到 Github 仓库 [netcoreimpl/questions](https://github.com/netcoreimpl/questions)<br/>
 创建 Issue 提问，但回答可能需要几天时间，推荐先在 QQ 群中提问，如果没有解决再创建 Issue。
 
-# 勘误
+# 勘误列表
 
 以下是目前发现的错误列表，感谢指出的读者们🙏。
 
