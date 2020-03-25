@@ -162,4 +162,4 @@ layout: default
 以下是目前发现的错误列表，感谢指出的读者们🙏。
 
 - [18页](./assets/fix/18-1.png): 图 2.6 的第三行 `set local variable 0` 应为 `load local variable 0`
-- [480页](./assets/fix/480-1.png): div 的解释应为 `从评价堆栈取出两个值，计算它们的相除结果并存入评价堆栈`
+- [19页, 480页](./assets/fix/480-1.png): div 的解释应为 `从评价堆栈取出两个值，计算它们的相除结果并存入评价堆栈`
