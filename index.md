@@ -165,4 +165,4 @@ layout: default
 - [19页, 480页](./assets/fix/480-1.png): div 的解释应为 `从评价堆栈取出两个值，计算它们的相除结果并存入评价堆栈`
 - [41页](./assets/fix/41-1.png): `设置寄存器 r0 的值为 2` 应该改为 `设置寄存器 r1 的值为 2`
 - 363页: `机器代码生成(Emiiter):根据汇编指令生成机器码。` 的 `Emiiter` 应为 `Emitter` 
-- [409页](./assets/fix/409-1.png): `PHI` 下的 `LCL_VAR V02` 应该为 `LCLVAR V01` 
+- [409页](./assets/fix/409-1.png): `PHI` 下的 `LCL_VAR V02` 应该为 `LCL_VAR V01` 
